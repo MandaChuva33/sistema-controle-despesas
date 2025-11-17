@@ -1,0 +1,17 @@
+# Java
+*.class
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Data files
+*.txt
